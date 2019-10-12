@@ -24,6 +24,7 @@ void setup() {
   pinMode(booz,OUTPUT);
 
   lcd.begin();
+  lcd.clear();
 }
 
 void loop() {
